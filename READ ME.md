@@ -1,1 +1,2 @@
-
+This script does not use the game files and instead uses the shooting error graph. When moving and shooting the graph has light blue. The script detects the light blue in the graph and alerts
+you with a loud and annoying beep
